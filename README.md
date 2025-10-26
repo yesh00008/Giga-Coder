@@ -1,5 +1,5 @@
 <a href="https://www.gigacoder.io">
-  <img alt="Giga Coder - AI App Generator" src="./public/og-image.png">
+  <img alt="Giga Coder - AI App Generator" src="./public/image.png">
   <h1 align="center">🚀 Giga Coder</h1>
 </a>
 

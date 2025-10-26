@@ -146,7 +146,32 @@ We love contributions! Please see our [Contributing Guide](./CONTRIBUTING.md) fo
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## � Contributors
+
+Thanks to these wonderful people who have contributed to Giga Coder:
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yesh00008">
+        <img src="https://github.com/yesh00008.png" width="100px;" alt="Yaswanth Thotakura"/>
+        <br />
+        <sub><b>Yaswanth Thotakura</b></sub>
+      </a>
+      <br />
+      <a href="#" title="Code">💻</a>
+      <a href="#" title="Documentation">📖</a>
+      <a href="#" title="Design">🎨</a>
+      <a href="#" title="Ideas">🤔</a>
+    </td>
+  </tr>
+</table>
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Want to see your name here? Check out our [Contributing Guide](./CONTRIBUTING.md) and make your first contribution!
+
+## �📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
